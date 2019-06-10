@@ -4,9 +4,9 @@
 }
 
 .location__logo {
-  top: 20%;
+  top: 20% !important;
 }
 
 .location .main-container {
-  min-height: 120px;
+  min-height: 120px !important;
 }

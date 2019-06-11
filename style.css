@@ -1,12 +1,10 @@
-.location__logo img {
-  width: 100%;
-  height: auto;
+.header-cs span {
+  color: white;
+  padding-right: 5px;
+  font-size: 10px;
+  font-weight: 600;
 }
 
-.location__logo {
-  top: 20% !important;
-}
-
-.location .main-container {
-  min-height: 120px !important;
+.header-cs img {
+  padding-right: 30px;
 }

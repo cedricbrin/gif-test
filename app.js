@@ -1,3 +1,5 @@
 $(".header-cs")
-  .prepend('<img src="/img/thermometer.png"/>')
-  .prepend("<span>Test</span>");
+  .prepend(
+    '<img src="https://cedricbrin.github.io/gif-test/img/thermometer.png"/>'
+  )
+  .prepend("<span>31</span>");

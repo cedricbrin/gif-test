@@ -3,8 +3,10 @@
   padding-right: 5px;
   font-size: 10px;
   font-weight: 600;
+  position: absolute;
 }
 
 .header-cs img {
-  padding-right: 30px;
+  padding-left: 13px;
+  margin-right: 40px;
 }
